@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="HalwaDb">
+  <DataContextMoniker Name="/HalwaDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7fabf8db-a074-4c93-a488-7f957ca55397" absoluteBounds="5.5, 1.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/HalwaDbDataContext/Employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="139cdb7f-b358-472e-9279-29812a012bf5" absoluteBounds="5.515, 2.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

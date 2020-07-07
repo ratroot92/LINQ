@@ -1,0 +1,59 @@
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\Linq to DataSet.dll.config
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\Linq to DataSet.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\Linq to DataSet.pdb
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\csc.exe
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\csc.exe.config
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\csc.rsp
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\csi.exe
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\csi.exe.config
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\csi.rsp
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.Managed.Core.targets
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.AppContext.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Collections.Immutable.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Console.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Globalization.Calendars.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.IO.Compression.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.IO.FileSystem.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Net.Http.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Net.Sockets.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Reflection.Metadata.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.ValueTuple.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Xml.XmlDocument.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Xml.XPath.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\vbc.exe
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\vbc.exe.config
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\vbc.rsp
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\VBCSCompiler.exe
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\roslyn\VBCSCompiler.exe.config
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\obj\Debug\Linq to DataSet.csprojAssemblyReference.cache
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\obj\Debug\Linq to DataSet.csproj.CoreCompileInputs.cache
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\obj\Debug\Linq to DataSet.csproj.CopyComplete
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\obj\Debug\Linq to DataSet.dll
+E:\University Stuff\6th Semester\Visual Programming\Linq Programs\Linq To Sql\Linq to Sql\Linq to DataSet\Linq to DataSet\obj\Debug\Linq to DataSet.pdb
